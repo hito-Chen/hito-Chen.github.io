@@ -1,2 +1,2 @@
-# hito-chen.github.io
+# hitochen.github.io
 个人博客
